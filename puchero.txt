@@ -1,1 +1,1 @@
-ingredientes:patata, jamon, garbanzos, tozino, pollo.
+ingredientes:patata, jamon, garbanzos, tozino, pollo,sal.
